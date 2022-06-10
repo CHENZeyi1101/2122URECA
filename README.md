@@ -9,8 +9,8 @@ This is a research project under the Undergraduate Research Experience on Campus
 
 - [Abstract](#Abstract)
 - [Keywords](#Keywords)
-- [File Descriptions](#File Descriptions)
-- [Instructions](Instructions)
+- [Descriptions](#Descriptions)
+- [Instructions](#Instructions)
 - [License](#license)
 - [Author](#author)
 - [Contact](#contact)
@@ -43,9 +43,9 @@ Network Coloring Game, Social Choices, Absorbing Markov Chain, Monte Carlo Simul
 
 The pre-defined functions include:
 
-* **IsProper.py: ** function to identify whether the given color assignment is proper.
-* **Preference_Generator: ** function to generate the preference matrix of the players in network.
-* **
+* IsProper.py: function to identify whether the given color assignment is proper.
+* Preference_Generator: function to generate the preference matrix of the players in network.
+* 
 
 
 Serial is a C++ header-only library serving as a foundation for writing
