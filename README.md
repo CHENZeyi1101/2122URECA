@@ -1,5 +1,3 @@
-<img width="880" height = "80" alt = "Serial Title"
-    src="doc/images/readme.jpg">
 
 #  Markov-Chain-Approaches-to-Payoff-Optimization-in-the-Self-Organizing-Network-Coloring-Game
 
@@ -36,6 +34,7 @@ given to illustrate the corresponding procedures.
 
 ## Keywords
 Network Coloring Game, Social Choices, Absorbing Markov Chain, Monte Carlo Simulation, Color Sampling
+
 
 ## Descriptions
 "Local" contains the codes for local optimal value detection, which simulates the detailed procedure for players to reach the optimal payoff from the initial proper coloring. "Glocal contains the codes for reaching global optimal value, using Simulated Annealing methods.
